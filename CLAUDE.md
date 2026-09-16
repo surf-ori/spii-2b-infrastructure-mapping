@@ -14,7 +14,7 @@ reference-model source document and on the
 
 `.github/ISSUE_TEMPLATE/feedback.yml` collects name, organisation, role, and "representing
 infrastructure" alongside the feedback itself, so the origin of each issue stays traceable. See
-`AGENDA.md` for how to process incoming issues.
+`AGENTS.md` for how to process incoming issues.
 
 ## Way of working
 
