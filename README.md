@@ -1,4 +1,4 @@
-# SPII 2B: Mapping of Infrastructures & Projects
+# SPII 2B: Tool for: Mapping of Infrastructures & Projects
 
 Feedback and issue tracker for SPII deliverable 2B, Mapping of Infrastructures & Projects, part of the [SPII overview](https://surf-ori.github.io/spii-overview/).
 
