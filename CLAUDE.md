@@ -4,11 +4,16 @@ Agent context for working on the `spii-2b-infrastructure-mapping` repository.
 
 ## What this repo is
 
-The feedback and issue tracker for SPII deliverable 2B, Mapping of Infrastructures & Projects. It
-holds no application code: its content is community feedback issues, this tracker's own
-configuration, and these context files. The deliverable's actual content and status live in the
-reference-model source document and on the
-[spii-overview](https://github.com/surf-ori/spii-overview) page, not here.
+The feedback and issue tracker for SPII deliverable 2B, Mapping of Infrastructures & Projects —
+and, since 2026-09-23, also the home of an inventory dataset: `data/OpenScienceNL_components.xlsx`
+(original) and `data/open-science-nl-components.csv` (converted), 112 Open Science infrastructure
+components and agreements in the Netherlands digital research ecosystem, sourced from Bey, T.
+(2026), *Open Science components in the Netherlands digital research ecosystem* (Version 0.1)
+[Dataset], Zenodo, [doi.org/10.5281/zenodo.20509748](https://doi.org/10.5281/zenodo.20509748) —
+see `data/README.md` for the columns and full provenance. It otherwise holds no application code:
+its content is community feedback issues, this tracker's own configuration, and these context
+files. The deliverable's broader content and status live in the reference-model source document
+and on the [spii-overview](https://github.com/surf-ori/spii-overview) page, not here.
 
 ## Issue template
 
