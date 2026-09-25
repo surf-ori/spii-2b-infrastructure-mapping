@@ -4,7 +4,7 @@ Agent context for working on the `spii-2b-infrastructure-mapping` repository.
 
 ## What this repo is
 
-The feedback and issue tracker for SPII deliverable 2B, Mapping of Infrastructures & Projects —
+The feedback and issue tracker for SPII deliverable 2B, Inventory of infrastructures and projects —
 and, since 2026-09-23, also the home of an inventory dataset: `data/OpenScienceNL_components.xlsx`
 (original) and `data/open-science-nl-components.csv` (converted), 112 Open Science infrastructure
 components and agreements in the Netherlands digital research ecosystem, sourced from Bey, T.
