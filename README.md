@@ -1,6 +1,6 @@
-# SPII 2B: Tool for: Inventory of infrastructures and projects
+# SPII 2B: Tool for: Mapping of Infrastructures & Infrastructure development projects
 
-Feedback and issue tracker for SPII deliverable 2B, Inventory of infrastructures and projects, part of the [SPII overview](https://surf-ori.github.io/spii-overview/).
+Feedback and issue tracker for SPII deliverable 2B, Mapping of Infrastructures & Infrastructure development projects, part of the [SPII overview](https://surf-ori.github.io/spii-overview/).
 
 [`data/`](https://github.com/surf-ori/spii-2b-infrastructure-mapping/tree/main/data) holds an
 inventory of 112 Open Science infrastructure components and agreements in the Netherlands digital
